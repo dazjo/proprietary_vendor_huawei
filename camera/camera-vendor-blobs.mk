@@ -14,7 +14,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/camera/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/huawei/u8818/camera/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
     vendor/huawei/u8818/camera/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7627a.so \
- #   vendor/huawei/u8818/camera/lib/liboemcamera.so:system/lib/liboemcamera.so \
+#   vendor/huawei/u8818/camera/lib/liboemcamera.so:system/lib/liboemcamera.so \
     
 PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/camera/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
