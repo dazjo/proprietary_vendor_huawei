@@ -101,7 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/huawei/u8818/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/huawei/u8818/proprietary/lib/libcamera.so:system/lib/libcamera.so \
-#   vendor/huawei/u8818/proprietary/lib/hw/camera.msm7x27.so:system/lib/hw/camera.msm7x27.so \
+    vendor/huawei/u8818/proprietary/lib/hw/camera.msm7x27.so:system/lib/hw/camera.msm7x27.so \
     vendor/huawei/u8818/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/huawei/u8818/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/huawei/u8818/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
