@@ -41,8 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8818/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8818/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-    vendor/huawei/u8818/proprietary/lib/libwms.so:system/lib/libwms.so \
-    vendor/huawei/u8818/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8818/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/u8818/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/huawei/u8818/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
