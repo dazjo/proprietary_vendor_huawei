@@ -93,7 +93,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libuim.so:system/lib/libuim.so \
     vendor/huawei/u8818/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so \
     vendor/huawei/u8818/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    vendor/huawei/u8818/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so \
+	vendor/huawei/u8818/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so \
     vendor/huawei/u8818/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/huawei/u8818/proprietary/bin/mm-qcamera-test:system/bin/mm-qcamera-test \
     vendor/huawei/u8818/proprietary/bin/mm-qcamera-testsuite-client:system/bin/mm-qcamera-testsuite-client \
