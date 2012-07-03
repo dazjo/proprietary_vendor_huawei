@@ -41,6 +41,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8818/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8818/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
+    vendor/huawei/u8818/proprietary/lib/libwms.so:system/lib/libwms.so \
+    vendor/huawei/u8818/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8818/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/u8818/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/huawei/u8818/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
@@ -51,12 +53,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
     vendor/huawei/u8818/proprietary/lib/libOmxAmrRtpDec.so:system/lib/libOmxAmrRtpDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxAmrwbDec.so:system/lib/libOmxAmrwbDec.so \
-    vendor/huawei/u8818/proprietary/lib/libOmxCore.so:system/lib/libOmxCore.so \
     vendor/huawei/u8818/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
     vendor/huawei/u8818/proprietary/lib/libOmxEvrcHwDec.so:system/lib/libOmxEvrcHwDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
-    vendor/huawei/u8818/proprietary/lib/libOmxIttiamVdec.so:system/lib/libOmxIttiamVdec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
@@ -68,10 +68,16 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_aacdec_sharedlibrary.so:system/lib/libomx_aacdec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_m4vdec_sharedlibrary.so:system/lib/libomx_m4vdec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_mp3dec_sharedlibrary.so:system/lib/libomx_mp3dec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_avcdec_sharedlibrary.so:system/lib/libomx_avcdec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_amrenc_sharedlibrary.so:system/lib/libomx_amrenc_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_amrdec_sharedlibrary.so:system/lib/libomx_amrdec_sharedlibrary.so \
     vendor/huawei/u8818/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/u8818/proprietary/bin/akmd8975:system/bin/akmd8975 \
     vendor/huawei/u8818/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
-    vendor/huawei/u8818/proprietary/bin/brcm_patchram_plus_check:system/bin/brcm_patchram_plus_check \
     vendor/huawei/u8818/proprietary/bin/compassd:system/bin/compassd \
     vendor/huawei/u8818/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
     vendor/huawei/u8818/proprietary/bin/modempre:system/bin/modempre \
@@ -89,6 +95,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
     vendor/huawei/u8818/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/huawei/u8818/proprietary/lib/libuim.so:system/lib/libuim.so \
+    vendor/huawei/u8818/proprietary/lib/libsettings.so:system/lib/libsettings.so \
     vendor/huawei/u8818/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so \
     vendor/huawei/u8818/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
 #    vendor/huawei/u8818/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
@@ -97,7 +104,7 @@ PRODUCT_COPY_FILES += \
 #    vendor/huawei/u8818/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
 #    vendor/huawei/u8818/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
 #    vendor/huawei/u8818/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so \
-#    vendor/huawei/u8818/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
+#        vendor/huawei/u8818/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
 #    vendor/huawei/u8818/proprietary/lib/libcamera.so:system/lib/libcamera.so \
 #    vendor/huawei/u8818/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
 #    vendor/huawei/u8818/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
