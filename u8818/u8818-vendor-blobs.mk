@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libril.so:obj/lib/libril.so \
     vendor/huawei/u8818/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8818/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/huawei/u8818/proprietary/lib/libsettings.so:system/lib/libsettings.so \
     vendor/huawei/u8818/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8818/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8818/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
