@@ -44,6 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/huawei/u8818/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8818/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
+    vendor/huawei/u8818/proprietary/lib/liboeminfodata.so:system/lib/liboeminfodata.so \
     vendor/huawei/u8818/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/huawei/u8818/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/u8818/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
@@ -90,7 +91,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
     vendor/huawei/u8818/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/huawei/u8818/proprietary/lib/libuim.so:system/lib/libuim.so \
-    vendor/huawei/u8818/proprietary/lib/libsettings.so:system/lib/libsettings.so \
     vendor/huawei/u8818/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so \
     vendor/huawei/u8818/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/huawei/u8818/proprietary/lib/libgemini.so:system/lib/libgemini.so \
