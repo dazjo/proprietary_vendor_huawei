@@ -17,7 +17,10 @@
 # Live wallpaper packages
 PRODUCT_PACKAGES := \
     LiveWallpapers \
-    LiveWallpapersPicker
+    LiveWallpapersPicker \
+    MagicSmokeWallpapers \
+    VisualizationWallpapers \
+    librs_jni
 
 # Publish that we support the live wallpaper feature.
 PRODUCT_COPY_FILES := \
@@ -27,4 +30,3 @@ PRODUCT_COPY_FILES := \
 DEVICE_PACKAGE_OVERLAYS := vendor/huawei/u8818/overlay
 
 $(call inherit-product, vendor/huawei/u8818/u8818-vendor-blobs.mk)
-$(call inherit-product, vendor/huawei/u8818/camera/camera-vendor-blobs.mk)
