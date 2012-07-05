@@ -27,3 +27,4 @@ PRODUCT_COPY_FILES := \
 DEVICE_PACKAGE_OVERLAYS := vendor/huawei/u8818/overlay
 
 $(call inherit-product, vendor/huawei/u8818/u8818-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/u8818/camera/camera-vendor-blobs.mk)

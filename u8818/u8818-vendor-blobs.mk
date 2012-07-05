@@ -53,12 +53,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
     vendor/huawei/u8818/proprietary/lib/libOmxAmrRtpDec.so:system/lib/libOmxAmrRtpDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxAmrwbDec.so:system/lib/libOmxAmrwbDec.so \
-    vendor/huawei/u8818/proprietary/lib/libOmxCore.so:system/lib/libOmxCore.so \
     vendor/huawei/u8818/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
     vendor/huawei/u8818/proprietary/lib/libOmxEvrcHwDec.so:system/lib/libOmxEvrcHwDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
-    vendor/huawei/u8818/proprietary/lib/libOmxIttiamVdec.so:system/lib/libOmxIttiamVdec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
@@ -70,6 +68,13 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/huawei/u8818/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_aacdec_sharedlibrary.so:system/lib/libomx_aacdec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_m4vdec_sharedlibrary.so:system/lib/libomx_m4vdec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_mp3dec_sharedlibrary.so:system/lib/libomx_mp3dec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_avcdec_sharedlibrary.so:system/lib/libomx_avcdec_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_amrenc_sharedlibrary.so:system/lib/libomx_amrenc_sharedlibrary.so \
+    vendor/huawei/u8818/proprietary/lib/libomx_amrdec_sharedlibrary.so:system/lib/libomx_amrdec_sharedlibrary.so \
     vendor/huawei/u8818/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/u8818/proprietary/bin/akmd8975:system/bin/akmd8975 \
     vendor/huawei/u8818/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
