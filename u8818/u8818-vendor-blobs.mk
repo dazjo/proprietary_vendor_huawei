@@ -87,6 +87,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8818/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/huawei/u8818/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/huawei/u8818/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
+    vendor/huawei/u8818/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/huawei/u8818/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/huawei/u8818/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/huawei/u8818/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
