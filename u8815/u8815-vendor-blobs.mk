@@ -80,6 +80,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/huawei/u8815/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/huawei/u8815/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+    vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
