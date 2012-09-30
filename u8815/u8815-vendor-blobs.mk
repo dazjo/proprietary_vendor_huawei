@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    vendor/huawei/u8815/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7x27.so \
     vendor/huawei/u8815/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/u8815/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/huawei/u8815/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
@@ -78,10 +77,14 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:obj/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libidl.so:system/lib/libidl.so \
+    vendor/huawei/u8815/proprietary/lib/libimage-jpeg-enc-omx-comp.so:obj/lib/libimage-jpeg-enc-omx-comp.so \
+    vendor/huawei/u8815/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/huawei/u8815/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/huawei/u8815/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/huawei/u8815/proprietary/lib/libmmstillomx.so:obj/lib/libmmstillomx.so \
+    vendor/huawei/u8815/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
