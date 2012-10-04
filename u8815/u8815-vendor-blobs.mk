@@ -78,14 +78,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:obj/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libidl.so:system/lib/libidl.so \
-    vendor/huawei/u8815/proprietary/lib/libimage-jpeg-enc-omx-comp.so:obj/lib/libimage-jpeg-enc-omx-comp.so \
-    vendor/huawei/u8815/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/huawei/u8815/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/huawei/u8815/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-    vendor/huawei/u8815/proprietary/lib/libmmstillomx.so:obj/lib/libmmstillomx.so \
-    vendor/huawei/u8815/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
