@@ -18,7 +18,6 @@
 PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/u8815/proprietary/bin/akmd8975:system/bin/akmd8975 \
-    vendor/huawei/u8815/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/huawei/u8815/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/huawei/u8815/proprietary/bin/compassd:system/bin/compassd \
     vendor/huawei/u8815/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
@@ -100,7 +99,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
     vendor/huawei/u8815/proprietary/lib/libOmxEvrcHwDec.so:system/lib/libOmxEvrcHwDec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
-    vendor/huawei/u8815/proprietary/lib/libOmxIttiamVdec.so:system/lib/libOmxIttiamVdec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
