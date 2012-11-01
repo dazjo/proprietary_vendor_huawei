@@ -86,7 +86,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfodata.so:system/lib/liboeminfodata.so \
     vendor/huawei/u8815/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
