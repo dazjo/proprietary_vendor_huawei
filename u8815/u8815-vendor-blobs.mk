@@ -78,6 +78,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:obj/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libidl.so:system/lib/libidl.so \
+    vendor/huawei/u8815/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
+    vendor/huawei/u8815/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/huawei/u8815/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/huawei/u8815/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
