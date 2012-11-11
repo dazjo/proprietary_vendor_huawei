@@ -53,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
     vendor/huawei/u8815/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
+    vendor/huawei/u8815/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/huawei/u8815/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/huawei/u8815/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
