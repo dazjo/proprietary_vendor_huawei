@@ -117,6 +117,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/huawei/u8815/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
     vendor/huawei/u8815/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so \
+    vendor/huawei/u8815/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/huawei/u8815/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/huawei/u8815/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/huawei/u8815/proprietary/lib/libqmi.so:system/lib/libqmi.so \
