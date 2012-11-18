@@ -92,8 +92,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
     vendor/huawei/u8815/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
     vendor/huawei/u8815/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
-    vendor/huawei/u8815/proprietary/lib/libmmoparser.so:system/lib/libmmoparser.so \
-    vendor/huawei/u8815/proprietary/lib/libmmoparser_divxdrmlib.so:system/lib/libmmoparser_divxdrmlib.so \
+    vendor/huawei/u8815/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
+    vendor/huawei/u8815/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
