@@ -112,6 +112,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
     vendor/huawei/u8815/proprietary/lib/libOmxQcelpHwDec.so:system/lib/libOmxQcelpHwDec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxrv9Dec.so:system/lib/libOmxrv9Dec.so \
+    vendor/huawei/u8815/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
+    vendor/huawei/u8815/proprietary/lib/libOmxVenc.so:system/lib/libOmxVenc.so \
     vendor/huawei/u8815/proprietary/lib/libOmxVidEnc.so:system/lib/libOmxVidEnc.so \
     vendor/huawei/u8815/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
