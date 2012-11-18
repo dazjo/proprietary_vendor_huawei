@@ -68,6 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
     vendor/huawei/u8815/proprietary/lib/libcm.so:system/lib/libcm.so \
+    vendor/huawei/u8815/proprietary/lib/libcontrast.so:system/lib/libcontrast.so \
     vendor/huawei/u8815/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/u8815/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/huawei/u8815/proprietary/lib/libdsm.so:system/lib/libdsm.so \
@@ -82,11 +83,17 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/huawei/u8815/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
+    vendor/huawei/u8815/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/huawei/u8815/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/huawei/u8815/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/huawei/u8815/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
     vendor/huawei/u8815/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/huawei/u8815/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
+    vendor/huawei/u8815/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
+    vendor/huawei/u8815/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+    vendor/huawei/u8815/proprietary/lib/libmmoparser.so:system/lib/libmmoparser.so \
+    vendor/huawei/u8815/proprietary/lib/libmmoparser_divxdrmlib.so:system/lib/libmmoparser_divxdrmlib.so \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
@@ -139,4 +146,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8815/proprietary/lib/libuim.so:system/lib/libuim.so \
     vendor/huawei/u8815/proprietary/lib/libwms.so:system/lib/libwms.so \
-    vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so
+    vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
+    vendor/huawei/u8815/proprietary/lib/libzy_imgdenoise.so:system/lib/libzy_imgdenoise.so
