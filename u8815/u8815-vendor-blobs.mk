@@ -63,9 +63,15 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libchromatix_mt9p017_preview.so:system/lib/libchromatix_mt9p017_preview.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_ov2720_default_video.so:system/lib/libchromatix_ov2720_default_video.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_ov2720_preview.so:system/lib/libchromatix_ov2720_preview.so \
+    vendor/huawei/u8815/proprietary/lib/libchromatix_ov5647_ar.so:system/lib/libchromatix_ov5647_ar.so \
+    vendor/huawei/u8815/proprietary/lib/libchromatix_ov5647_preview.so:system/lib/libchromatix_ov5647_preview.so \
+    vendor/huawei/u8815/proprietary/lib/libchromatix_ov5647_video.so:system/lib/libchromatix_ov5647_video.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_ar.so:system/lib/libchromatix_s5k4e1_ar.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
+    vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_3_ar.so:system/lib/libchromatix_s5k4e1_3_ar.so \
+    vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_3_default_video.so:system/lib/libchromatix_s5k4e1_3_default_video.so \
+    vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_3_preview.so:system/lib/libchromatix_s5k4e1_3_preview.so \
     vendor/huawei/u8815/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8815/proprietary/lib/libcontrast.so:system/lib/libcontrast.so \
     vendor/huawei/u8815/proprietary/lib/libdiag.so:system/lib/libdiag.so \
