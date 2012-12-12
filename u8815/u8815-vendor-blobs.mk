@@ -73,8 +73,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libchromatix_s5k4e1_3_preview.so:system/lib/libchromatix_s5k4e1_3_preview.so \
     vendor/huawei/u8815/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8815/proprietary/lib/libcontrast.so:system/lib/libcontrast.so \
+    vendor/huawei/u8815/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/huawei/u8815/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/u8815/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
+    vendor/huawei/u8815/proprietary/lib/libdnshostprio.so:system/lib/libdnshostprio.so \
     vendor/huawei/u8815/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/huawei/u8815/proprietary/lib/libdsm.so:system/lib/libdsm.so \
     vendor/huawei/u8815/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
@@ -146,7 +148,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/huawei/u8815/proprietary/lib/libsettings.so:system/lib/libsettings.so \
     vendor/huawei/u8815/proprietary/lib/libshareril.so:system/lib/libshareril.so \
+    vendor/huawei/u8815/proprietary/lib/libtcpfinaggr.so:system/lib/libtcpfinaggr.so \
     vendor/huawei/u8815/proprietary/lib/libuim.so:system/lib/libuim.so \
     vendor/huawei/u8815/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
-    vendor/huawei/u8815/proprietary/lib/libzy_imgdenoise.so:system/lib/libzy_imgdenoise.so
+    vendor/huawei/u8815/proprietary/lib/libzy_imgdenoise.so:system/lib/libzy_imgdenoise.so \
+    vendor/huawei/u8815/proprietary/lib/pp_proc_plugin.so:system/lib/pp_proc_plugin.so \
+    vendor/huawei/u8815/proprietary/lib/qnet-plugin.so:system/lib/qnet-plugin.so \
+    vendor/huawei/u8815/proprietary/lib/tcp-connections.so:system/lib/tcp-connections.so
