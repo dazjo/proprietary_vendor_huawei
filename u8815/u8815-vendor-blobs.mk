@@ -152,6 +152,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8815/proprietary/lib/libtcpfinaggr.so:system/lib/libtcpfinaggr.so \
     vendor/huawei/u8815/proprietary/lib/libuim.so:system/lib/libuim.so \
+    vendor/huawei/u8815/proprietary/lib/libv8.so:obj/lib/libv8.so \
+    vendor/huawei/u8815/proprietary/lib/libv8.so:system/lib/libv8.so \
     vendor/huawei/u8815/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8815/proprietary/lib/libzy_imgdenoise.so:system/lib/libzy_imgdenoise.so \
