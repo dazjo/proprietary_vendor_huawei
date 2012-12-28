@@ -18,6 +18,8 @@
 PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/u8815/proprietary/bin/rild:system/bin/rild \
+    vendor/huawei/u8815/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
+    vendor/huawei/u8815/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/huawei/u8815/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/huawei/u8815/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8815/proprietary/lib/libdiag.so:system/lib/libdiag.so \
@@ -45,6 +47,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/u8815/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
+    vendor/huawei/u8815/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
+    vendor/huawei/u8815/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
+    vendor/huawei/u8815/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
+    vendor/huawei/u8815/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/u8815/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
