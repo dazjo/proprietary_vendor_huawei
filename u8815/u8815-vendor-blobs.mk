@@ -21,6 +21,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/huawei/u8815/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/huawei/u8815/proprietary/lib/libauth.so:system/lib/libauth.so \
+    vendor/huawei/u8815/proprietary/lib/libcamera.so:system/lib/libcamera.so \
+    vendor/huawei/u8815/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/huawei/u8815/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8815/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/u8815/proprietary/lib/libdsm.so:system/lib/libdsm.so \
