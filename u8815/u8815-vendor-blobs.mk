@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libdsm.so:system/lib/libdsm.so \
     vendor/huawei/u8815/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/huawei/u8815/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
+    vendor/huawei/u8815/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/huawei/u8815/proprietary/lib/libgstk_exp.so:system/lib/libgstk_exp.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:obj/lib/libhwrpc.so \
@@ -49,6 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/u8815/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
+    vendor/huawei/u8815/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/huawei/u8815/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
