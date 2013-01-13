@@ -88,7 +88,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libgstk_exp.so:system/lib/libgstk_exp.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:obj/lib/libhwrpc.so \
     vendor/huawei/u8815/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
-    vendor/huawei/u8815/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/huawei/u8815/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/huawei/u8815/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/huawei/u8815/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
