@@ -67,6 +67,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libcneapiclient.so:system/lib/libcneapiclient.so \
     vendor/huawei/u8815/proprietary/lib/libcneqmiutils.so:system/lib/libcneqmiutils.so \
     vendor/huawei/u8815/proprietary/lib/libcontrast.so:system/lib/libcontrast.so \
+    vendor/huawei/u8815/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
     vendor/huawei/u8815/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/u8815/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/huawei/u8815/proprietary/lib/libdnshostprio.so:system/lib/libdnshostprio.so \
