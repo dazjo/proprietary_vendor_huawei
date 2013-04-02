@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/huawei/u8815/proprietary/bin/compassd:system/bin/compassd \
     vendor/huawei/u8815/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
+    vendor/huawei/u8815/proprietary/bin/modempre:system/bin/modempre \
     vendor/huawei/u8815/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/huawei/u8815/proprietary/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
     vendor/huawei/u8815/proprietary/bin/qmuxd:system/bin/qmuxd \
