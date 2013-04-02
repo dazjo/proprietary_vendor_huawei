@@ -19,23 +19,14 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/u8815/proprietary/bin/akmd8975:system/bin/akmd8975 \
     vendor/huawei/u8815/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
-    vendor/huawei/u8815/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/huawei/u8815/proprietary/bin/compassd:system/bin/compassd \
     vendor/huawei/u8815/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
-    vendor/huawei/u8815/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/huawei/u8815/proprietary/bin/mm-qcamera-test:system/bin/mm-qcamera-test \
-    vendor/huawei/u8815/proprietary/bin/mm-qcamera-testsuite-client:system/bin/mm-qcamera-testsuite-client \
-    vendor/huawei/u8815/proprietary/bin/modempre:system/bin/modempre \
     vendor/huawei/u8815/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/huawei/u8815/proprietary/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
-    vendor/huawei/u8815/proprietary/bin/port-bridge:system/bin/port-bridge \
-    vendor/huawei/u8815/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/huawei/u8815/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/u8815/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8815/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/u8815/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/huawei/u8815/proprietary/bin/test_gemini:system/bin/test_gemini \
-    vendor/huawei/u8815/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/huawei/u8815/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/huawei/u8815/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/huawei/u8815/proprietary/lib/109808/libcm.so:system/lib/109808/libcm.so \
