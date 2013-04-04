@@ -89,6 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
+    vendor/huawei/u8815/proprietary/lib/liboeminfodata.so:system/lib/liboeminfodata.so \
     vendor/huawei/u8815/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/huawei/u8815/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
@@ -118,6 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
     vendor/huawei/u8815/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so \
     vendor/huawei/u8815/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
+    vendor/huawei/u8815/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/huawei/u8815/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/huawei/u8815/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/huawei/u8815/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
