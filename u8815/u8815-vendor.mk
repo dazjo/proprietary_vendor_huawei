@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES := \
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS := vendor/huawei/u8815/overlay
 
-$(call inherit-product, vendor/huawei/u8815/common-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/u8815/all-vendor-blobs.mk)
 ifdef HUAWEI_109808_BASEBAND
 $(call inherit-product, vendor/huawei/u8815/109808-vendor-blobs.mk)
 else
