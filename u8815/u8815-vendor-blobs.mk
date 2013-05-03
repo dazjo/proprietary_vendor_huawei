@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
     vendor/huawei/u8815/proprietary/bin/modempre:system/bin/modempre \
     vendor/huawei/u8815/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/huawei/u8815/proprietary/bin/nfc_check:system/bin/nfc_check \
     vendor/huawei/u8815/proprietary/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
     vendor/huawei/u8815/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/u8815/proprietary/bin/rild:system/bin/rild \
@@ -38,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/huawei/u8815/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
+    vendor/huawei/u8815/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
     vendor/huawei/u8815/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/u8815/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/huawei/u8815/proprietary/lib/libauth.so:system/lib/libauth.so \
@@ -87,6 +89,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/huawei/u8815/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
     vendor/huawei/u8815/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
+    vendor/huawei/u8815/proprietary/lib/libnfc.so:system/lib/libnfc.so \
+    vendor/huawei/u8815/proprietary/lib/libnfc_jni.so:system/lib/libnfc_jni.so \
+    vendor/huawei/u8815/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
