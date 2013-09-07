@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libnfc.so:system/lib/libnfc.so \
     vendor/huawei/u8815/proprietary/lib/libnfc_jni.so:system/lib/libnfc_jni.so \
     vendor/huawei/u8815/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
+    vendor/huawei/u8815/proprietary/lib/libnv.so:obj/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/huawei/u8815/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/huawei/u8815/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
@@ -120,6 +121,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8815/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/huawei/u8815/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
+    vendor/huawei/u8815/proprietary/lib/liboncrpc.so:obj/lib/liboncrpc.so \
     vendor/huawei/u8815/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/huawei/u8815/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/huawei/u8815/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
