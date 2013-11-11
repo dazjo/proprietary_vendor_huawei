@@ -112,7 +112,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_vx6953_default_video.so:system/lib/libchromatix_vx6953_default_video.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libchromatix_vx6953_preview.so:system/lib/libchromatix_vx6953_preview.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libcontrast.so:system/lib/libcontrast.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:obj/lib/libdivxdrmdecrypt.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
