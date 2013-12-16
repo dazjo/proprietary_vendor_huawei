@@ -15,7 +15,6 @@
 #
 
 PRODUCT_COPY_FILES += \
-    vendor/huawei/u8833/proprietary/bin/hostapd:system/bin/hostapd \
     vendor/huawei/u8833/proprietary/bin/modempre:system/bin/modempre \
     vendor/huawei/u8833/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/huawei/u8833/proprietary/bin/netmgrd:system/bin/netmgrd \
