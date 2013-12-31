@@ -15,6 +15,6 @@
 #
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS := vendor/huawei/u8833/overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/huawei/u8833/overlay
 
 $(call inherit-product, vendor/huawei/u8833/u8833-vendor-blobs.mk)

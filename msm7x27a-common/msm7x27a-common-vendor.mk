@@ -15,6 +15,6 @@
 #
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS := vendor/huawei/msm7x27a-common/overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/huawei/msm7x27a-common/overlay
 
 $(call inherit-product, vendor/huawei/msm7x27a-common/msm7x27a-common-vendor-blobs.mk)
