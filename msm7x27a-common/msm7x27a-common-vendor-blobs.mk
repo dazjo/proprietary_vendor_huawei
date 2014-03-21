@@ -116,6 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:obj/lib/libdivxdrmdecrypt.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
