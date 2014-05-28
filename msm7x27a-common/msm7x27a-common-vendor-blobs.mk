@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/liballjoyn.so:system/lib/liballjoyn.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libaudcal.so:obj/lib/libaudcal.so \
