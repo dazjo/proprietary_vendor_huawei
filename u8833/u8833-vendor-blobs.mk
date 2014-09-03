@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/u8833/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8833/proprietary/bin/thermald:system/bin/thermald \
-    vendor/huawei/u8833/proprietary/bin/vold:system/bin/vold \
     vendor/huawei/u8833/proprietary/bin/wlan_detect:system/bin/wlan_detect \
     vendor/huawei/u8833/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
     vendor/huawei/u8833/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
