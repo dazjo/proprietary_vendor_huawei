@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/huawei/u8833/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
+    vendor/huawei/u8833/proprietary/bin/vold:system/bin/vold \
     vendor/huawei/u8833/proprietary/bin/modempre:system/bin/modempre \
     vendor/huawei/u8833/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/huawei/u8833/proprietary/bin/netmgrd:system/bin/netmgrd \
