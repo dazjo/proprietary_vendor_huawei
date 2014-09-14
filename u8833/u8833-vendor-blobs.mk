@@ -58,11 +58,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
     vendor/huawei/u8833/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/huawei/u8833/proprietary/lib/libqmi.so:system/lib/libqmi.so \
-<<<<<<< HEAD
     vendor/huawei/u8833/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
     vendor/huawei/u8833/proprietary/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
-=======
->>>>>>> b7bc2807ba805a63fb4de9cbba642362fa145a9e
     vendor/huawei/u8833/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/huawei/u8833/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8833/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
