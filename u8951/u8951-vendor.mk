@@ -14,5 +14,10 @@
 # limitations under the License.
 #
 
-PRODUCT_COPY_FILES += \
-    vendor/huawei/u8825/proprietary/lib/libcm.so:system/lib/libcm.so
+$(call inherit-product, vendor/huawei/u8951/u8951-vendor-blobs.mk)
+
+$(call inherit-product, vendor/huawei/u8833/u8833-vendor.mk)
+
+# Pick up overlay for features that depend on non-open-source files
+DEVICE_PACKAGE_OVERLAYS += vendor/huawei/u8951/overlay
+

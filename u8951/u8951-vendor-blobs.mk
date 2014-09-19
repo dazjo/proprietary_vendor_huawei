@@ -14,7 +14,11 @@
 # limitations under the License.
 #
 
-# Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS += vendor/huawei/u8815/overlay
+PRODUCT_COPY_FILES += \
+    vendor/huawei/u8951/proprietary/app/Tag.apk:system/app/Tag.apk \
+    vendor/huawei/u8951/proprietary/bin/nfc_check:system/bin/nfc_check \
+    vendor/huawei/u8951/proprietary/etc/EEDATA.cfg:system/etc/EEDATA.cfg \
+    vendor/huawei/u8951/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
+    vendor/huawei/u8951/proprietary/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
+    vendor/huawei/u8951/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so
 
-$(call inherit-product, vendor/huawei/u8815/u8815-vendor-blobs.mk)
