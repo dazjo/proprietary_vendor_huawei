@@ -17,8 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/huawei/u8951/app/Tag.apk:system/app/Tag.apk \
     vendor/huawei/u8951/bin/nfc_check:system/bin/nfc_check \
-    vendor/huawei/u8951/etc/EEDATA.cfg:system/etc/EEDATA.cfg \
-    vendor/huawei/u8951/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
     vendor/huawei/u8951/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
     vendor/huawei/u8951/lib/libpn544_fw.so:system/lib/libpn544_fw.so
 
