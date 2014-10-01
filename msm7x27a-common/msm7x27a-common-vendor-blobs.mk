@@ -15,6 +15,7 @@
 #
 
 PRODUCT_COPY_FILES += \
+    vendor/huawei/msm7x27a-common/proprietary/app/Rebooter.apk:system/app/Rebooter.apk \
     vendor/huawei/msm7x27a-common/proprietary/bin/abtfilt:system/bin/abtfilt \
     vendor/huawei/msm7x27a-common/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/msm7x27a-common/proprietary/bin/akmd8963:system/bin/akmd8963 \
