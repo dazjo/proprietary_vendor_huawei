@@ -15,6 +15,7 @@
 #
 
 PRODUCT_COPY_FILES += \
+    vendor/huawei/msm7x27a-common/proprietary/app/Rebooter.apk:system/app/Rebooter.apk \
     vendor/huawei/msm7x27a-common/proprietary/bin/abtfilt:system/bin/abtfilt \
     vendor/huawei/msm7x27a-common/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/msm7x27a-common/proprietary/bin/akmd8963:system/bin/akmd8963 \
@@ -30,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/huawei/msm7x27a-common/proprietary/bin/nvext:system/bin/nvext \
     vendor/huawei/msm7x27a-common/proprietary/bin/port-bridge:system/bin/port-bridge \
-    vendor/huawei/msm7x27a-common/proprietary/bin/qosmgr:system/bin/qosmgr \
     vendor/huawei/msm7x27a-common/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/msm7x27a-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/msm7x27a-common/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
