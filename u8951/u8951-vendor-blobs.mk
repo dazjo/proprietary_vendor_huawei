@@ -15,7 +15,9 @@
 #
 
 PRODUCT_COPY_FILES += \
-    vendor/huawei/u8951/bin/nfc_check:system/bin/nfc_check \
-    vendor/huawei/u8951/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
-    vendor/huawei/u8951/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
-    vendor/huawei/u8951/etc/EEDATA.cfg:system/etc/EEDATA.cfg
+    vendor/huawei/u8951/proprietary/bin/nfc_check:system/bin/nfc_check \
+    vendor/huawei/u8951/proprietary/etc/EEDATA.cfg:system/etc/EEDATA.cfg \
+    vendor/huawei/u8951/proprietary/etc/nfcee_access.xml:system/etc/nfcee_access.xml \
+    vendor/huawei/u8951/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
+    vendor/huawei/u8951/proprietary/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
+    vendor/huawei/u8951/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so
